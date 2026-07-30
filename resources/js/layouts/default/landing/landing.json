@@ -1,0 +1,14 @@
+{
+    "name": "Landing Page",
+    "slug": "landing",
+    "type": "landing",
+    "version": "1.0.0",
+    "author": "AutoReserve",
+    "description": "Plantilla moderna para landing page. Solo aplica a páginas de tipo landing.",
+    "components": {
+        "layout": "landing-layout.tsx",
+        "topmenu": "landing-topmenu.tsx",
+        "header": "landing-header.tsx",
+        "footer": "landing-footer.tsx"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Dashboard",
+    "slug": "dashboard",
+    "type": "dashboard",
+    "version": "1.0.0",
+    "author": "AutoReserve",
+    "description": "Panel de administración con sidebar y navegación. Solo aplica a dashboard.",
+    "components": {
+        "layout": "dashboard-layout.tsx",
+        "sidebar": "dashboard-sidebar.tsx",
+        "header": "dashboard-header.tsx",
+        "footer": "dashboard-footer.tsx"
+    }
+}

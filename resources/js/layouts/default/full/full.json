@@ -1,0 +1,11 @@
+{
+    "name": "Full Template",
+    "slug": "full",
+    "type": "full",
+    "version": "1.0.0",
+    "author": "AutoReserve",
+    "description": "Template universal que funciona en cualquier tipo de página.",
+    "components": {
+        "layout": "full-layout.tsx"
+    }
+}

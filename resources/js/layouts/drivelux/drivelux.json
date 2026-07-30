@@ -1,0 +1,16 @@
+{
+    "name": "DriveLux Landing",
+    "slug": "drivelux",
+    "type": "landing",
+    "version": "1.0.0",
+    "author": "AutoReserve",
+    "description": "Plantilla landing premium DriveLux con sistema de reservas, flota de vehículos y selector de fechas.",
+    "components": {
+        "layout": "drivelux-layout.tsx",
+        "navbar": "components/drivelux-navbar.tsx",
+        "hero": "components/drivelux-hero.tsx",
+        "fleet": "components/drivelux-fleet.tsx",
+        "booking": "components/drivelux-booking.tsx",
+        "footer": "components/drivelux-footer.tsx"
+    }
+}

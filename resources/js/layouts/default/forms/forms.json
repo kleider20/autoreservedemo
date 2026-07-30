@@ -1,0 +1,11 @@
+{
+    "name": "Formularios",
+    "slug": "forms",
+    "type": "forms",
+    "version": "1.0.0",
+    "author": "AutoReserve",
+    "description": "Plantilla base para páginas con formularios. Solo aplica a forms.",
+    "components": {
+        "layout": "forms-layout.tsx"
+    }
+}
